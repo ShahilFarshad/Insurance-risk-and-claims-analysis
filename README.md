@@ -42,7 +42,7 @@ These measures provide the foundation to compare, filter, and segment the data e
 ## Dashboard
 <img width="1363" height="806" alt="Insurence risk and claims db" src="https://github.com/user-attachments/assets/4a456a84-3157-474b-9adf-a97d8743ba45" />
 ## Dashboard file 
-<a href="https://github.com/ShahilFarshad/Insurance-risk-and-claims-analysis/blob/main/INSURENSE%20%26%20RISK%20DB.pbix"> 
+<a href="https://github.com/ShahilFarshad/Insurance-risk-and-claims-analysis/blob/main/INSURENSE%20%26%20RISK%20DB.pbix"> Insurance risk and claims analysis dashboard</a> 
 ## Project Insight
 - The company has 37K+ active policies.
 - Total claim amount exceeds $187M, showing high financial exposure.
