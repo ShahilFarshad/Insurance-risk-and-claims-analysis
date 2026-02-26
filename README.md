@@ -25,5 +25,5 @@ These measures provide the foundation to compare, filter, and segment the data e
 6.	By Kids Driving (Ribbon Chart) – To compare the impact of young drivers in households on policy count and claim amounts.
 7.	By Education (Pie Chart) – To understand how education levels correlate with insurance policy adoption and claims.
 8.	By Education & Marital Status (Matrix Heat Grid) – To explore the combined effect of education and marital status on policies and claims, highlighting customer profiles.
-- Dashboard Interaction < a href = "https://github.com/ShahilFarshad/Insurance-risk-and-claims-analysis/blob/main/Insurence%20risk%20and%20claims%20db.png"> View Dashboard </a>
+- Dashboard Interaction <a href = "https://github.com/ShahilFarshad/Insurance-risk-and-claims-analysis/blob/main/Insurence%20risk%20and%20claims%20db.png"> View Dashboard </a>
 
