@@ -60,4 +60,8 @@ These measures provide the foundation to compare, filter, and segment the data e
 - Gender distribution of policies is nearly equal.
 - Newer car models show increasing claim trends.
 
+## Final Conclusion
+The Insurance Risk & Claims Analysis dashboard successfully transforms scattered policy and claims data into a centralized, interactive reporting solution. By integrating key KPIs with detailed demographic, vehicle, and geographic analysis, the dashboard enables stakeholders to clearly understand claim patterns, identify high-risk segments, and monitor overall business performance.
+The insights derived from this analysis support data-driven decision-making in underwriting, pricing strategy, customer segmentation, and risk management. Ultimately, this project enhances operational transparency, improves financial oversight, and empowers the insurance company to make strategic decisions that reduce risk exposure and optimize profitability.
+
 
