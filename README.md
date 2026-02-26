@@ -27,3 +27,32 @@ These measures provide the foundation to compare, filter, and segment the data e
 8.	By Education & Marital Status (Matrix Heat Grid) – To explore the combined effect of education and marital status on policies and claims, highlighting customer profiles.
 - Dashboard Interaction <a href = "https://github.com/ShahilFarshad/Insurance-risk-and-claims-analysis/blob/main/Insurence%20risk%20and%20claims%20db.png"> View Dashboard </a>
 
+# Process
+- Understand business requirements and define key KPIs.
+- Collect policy, claims, customer, vehicle, and coverage data.
+- Clean and transform the data using Power Query.
+- Create relationships and build a structured data model.
+- Develop DAX measures for KPIs and dynamic calculations.
+- Plan the dashboard layout and visual structure.
+- Create KPI cards for summary insights.
+- Build charts for demographic, vehicle, and geographic analysis.
+- Add slicers and enable cross-filtering for interactivity.
+- Test calculations, validate results, and optimize performance.
+- Publish the dashboard and share it with stakeholders.
+## Dashboard
+<img width="1363" height="806" alt="Insurence risk and claims db" src="https://github.com/user-attachments/assets/4a456a84-3157-474b-9adf-a97d8743ba45" />
+## Project Insight
+- The company has 37K+ active policies.
+- Total claim amount exceeds $187M, showing high financial exposure.
+- Average claim amount is around $5K.
+- Private vehicles generate the highest claims.
+- Certain car brands contribute more to total claim amounts.
+- Urban and highly urban areas have higher claim values.
+- Middle-aged customers (26–55) file the most claims.
+- Households with young drivers have higher claim amounts.
+- Bachelor’s degree holders show the highest total claims.
+- Married customers contribute more to overall claim amounts.
+- Gender distribution of policies is nearly equal.
+- Newer car models show increasing claim trends.
+
+
